@@ -14,6 +14,6 @@ def keep_Playing():
       break
     
     else:
-  print("nope, sorry. try again!")
+      print("nope, sorry. try again!")
 
-keep_playing()
+keep_Playing()
