@@ -1,5 +1,4 @@
 import random
-"""Because i didnt understand emilys, i made my own lol"""
 
 def keep_Playing():
   num = random.randint(1, 10)
